@@ -4,6 +4,8 @@ pink
 blue
 red
 green
+blue
+indigo
 yellow
 colors of the rainow
 and unicorn
